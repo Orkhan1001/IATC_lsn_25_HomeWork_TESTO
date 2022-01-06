@@ -1,5 +1,6 @@
 *{
     scroll-behavior: smooth;
+    overflowX: hidden;
 }
 body{
     font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
